@@ -47,7 +47,7 @@ function draw() {
     let x = canvas.width / 2 + p.x * 15;
     let y = canvas.height / 2 - p.y * 15;
 
-    ctx.fillText(" SAHA EIDK MANEL ", x, y);
+    ctx.fillText(" I LOVE YOU DIMA ", x, y);
   }
 
   t += 0.09;
